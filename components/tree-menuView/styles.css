@@ -1,0 +1,10 @@
+.tree-view-container {
+  min-height: 100vh;
+  width: 350px;
+  background: lightblue;
+}
+
+.menu-list {
+  color: darkblue;
+  list-style-type: none;
+}
